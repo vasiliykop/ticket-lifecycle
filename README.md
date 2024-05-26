@@ -28,25 +28,48 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Creating ticket examples:
+</p>
+<br/>
+<p>
+  Creating tcikets
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img src="https://github.com/vasiliykop/ticket-lifecycle/assets/170582503/dccff254-4968-44fc-b3c1-f12d65c21b39">
+</p>
+<br/>
+
+<p>
+1- Business Critical Outage
+<p/>
+<p>
+<img src="https://github.com/vasiliykop/ticket-lifecycle/assets/170582503/98c74d15-35ae-4205-a656-18d5af0b0ed6"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  2.Computer Issues
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img src="https://github.com/vasiliykop/ticket-lifecycle/assets/170582503/fbcb8d69-16cc-4669-ad01-07e8d2332ab8">
 </p>
-<br />
+<br/>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  3. General Inquiry
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img src="https://github.com/vasiliykop/ticket-lifecycle/assets/170582503/3b6e3f56-4f53-4208-beba-003c3327fb6d">
 </p>
-<br />
+<br/>
+
+<p>
+  Adressing Tickets as Admin/agent
+</p>
+<p>
+  <img src="https://github.com/vasiliykop/ticket-lifecycle/assets/170582503/0f434ab4-7ddb-4d64-a3b3-19abf251bd1b)">
+</p>
+<p>
+  <img src="https://github.com/vasiliykop/ticket-lifecycle/assets/170582503/4662af6d-de6e-4d8c-b158-7f6e23311800">
+  <img src="https://github.com/vasiliykop/ticket-lifecycle/assets/170582503/290a02f1-3df3-4fe5-97a3-040c1ca02a87">
+</p>
